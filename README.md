@@ -1,0 +1,2 @@
+# Project-3-Experiments-with-Hashing
+In  this  project,  we  will  study  how  the  load  factor  affects  the  average  number  of  probesrequired  by  open  addressing  while  using  linear  probing  and  double  hashing  for  differenttypes of inputs.  This will also improve our understanding of how hashing works.  Note thatwe are not attempting to create a generic hash table that is usable by all applications.
